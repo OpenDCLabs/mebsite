@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Welcome to Mebsite</title>
+</head>
+
+<body>
+<div class="main-container">
+	<div class="header">
+	header
+	</div>
+	<div class="controls">
+	controls</div>
+	<div class="list">
+	listlist</div>
+
+
+
+
+</div>
+
+</body>
+
+
+</html>
+
