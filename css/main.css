@@ -25,6 +25,6 @@ font-size: large;
     background-color: #bbb;   
 }
 
-.controls .block a:hover{
-    background-color: #000;
+.controls .block:hover{
+    background-color: #aaa;
 }
