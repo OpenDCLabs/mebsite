@@ -6,22 +6,14 @@
 
 <body>
 <div class="main-container">
-	{% flagplay=False %}
 	<div class="header">
 	.Welcome to M3BSIT3.
 	</div>
 	<div class="controls">
 	<div class="block" id="Previous"><a><img src="icons/previous.png" /></a></div>
-	{% if flagplay = False %}
 	<div class="block" id="Play/Pause"><a><img src="icons/play.png" /></a></div>
-	{% flagplay = True %}
-	{% endif%}
 	
-	{% if flagplay = False %}
-	<div class="block" id="Play/Pause"><a><img src="icons/pause.png" /></a></div>
-	{% flagplay = True %}
-	{% endif%}
-	
+		
 	<div class="block" id="Next"><a><img src="icons/next.png" /></a></div>
 	</div>
 	<div class="list">
