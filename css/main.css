@@ -4,6 +4,7 @@ background-color: #abc;
 
 
 div {
-font-family: "Comic Neue",sans;
-
+font-family: "Comic Neue";
+font-size: normal;
+align: center;
 }
