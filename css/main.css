@@ -1,24 +1,30 @@
 * {
-  margin:auto;
-  padding: 7px;
- 
+    margin:auto;
+    padding: 10px;
+    border-radius: 5px; 
+    
 }
 
 body {
-background-color: #ccd;
-text-align: center;
+    background-color: #ccc;
+    text-align: center;
+    color: #444;
+    width: auto;
 }
 
 
 div {
-font-family: "Comic Neue";
-font-size: normal;
-align: center;
+font-family: "Ubuntu";
+font-size: large;
+#text-align: center;
+#align: left;
 }
 
-#.header {
-#
-#}
 .controls .block {
-display: inline-block;
+    display: inline-block;
+    background-color: #bbb;   
+}
+
+.controls .block a:hover{
+    background-color: #000;
 }
