@@ -1,3 +1,9 @@
+* {
+  margin:auto;
+  padding: 5px;
+ 
+}
+
 body {
 background-color: #ccd;
 text-align: center;
