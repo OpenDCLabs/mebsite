@@ -19,3 +19,6 @@ align: center;
 #.header {
 #
 #}
+.controls .block {
+display: inline-block;
+}
